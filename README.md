@@ -1,6 +1,6 @@
 # Apigee Colab Notebooks
 
-This repo contains Colab notebooks which can be used to learn more about the Apigee Edge product.
+This repo contains Colab notebooks which can be used to learn more about Apigee.
 
 In order to use these notebooks you will need access to an Apigee organisition and a Google Cloud project.
 
