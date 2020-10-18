@@ -17,7 +17,6 @@
         <VersionInfo resourceName="get-wind-vars" version="SHA-512:423a7bed76d5daa7f40a17dd029963542a40a88ca2b7fb64a527c5ec958e8da27677d2c29a9eb2f3ff75e494e35872b2e3a2bf9d94761585efecdae419443127"/>
         <VersionInfo resourceName="pathsuffix" version="SHA-512:371803513b9591acaea91fe47d08c9b0c768cd9a516dbf9fb59e2cbced4e5df7b741d79d07f40473588a0bdf448fd424b44103fd2ddc0a509a5471ee2c7cba77"/>
         <VersionInfo resourceName="quota-error" version="SHA-512:95c02a1e043519e237b1590e27539fb62ae064930ba927f6f288e01339ad08c5622d53a80060a09090dc2ac1d146fd3ca06368f28bb93f1cd21e5bb2bd74a91c"/>
-        <VersionInfo resourceName="save-station" version="SHA-512:19f87b97404725bfb382c71453351832539dc6517606334821125080eb1ab71a4c20386ffa5ae6557f679c57de6cb4cde01c24ae99ea5afaf6c5461f7f58999a"/>
         <VersionInfo resourceName="set-query" version="SHA-512:f8f2671657af2f30ee50563a5e5ed6a32b50251de777c210626554acee5aa4294c7b3a555e84a6294e0d31081c4b0522d3f8305937e2e1e1ffe6d349d7556661"/>
         <VersionInfo resourceName="spike-error" version="SHA-512:d345183f963732c44fcd6bb6db4959a5e80237f728eda19d8ce6382d3a594093bef7342b8e5966997109b7237639351b6358d4dae491bd34b4dec9d35260d1ab"/>
         <VersionInfo resourceName="verify-API-key" version="SHA-512:1cb1d77d7c12a2ca72eefc34c7004c1d94f8a76568aab24be9c43650222a15d44e5a675ce581cc6edf56cd89e986f74ae52d2a1f30476203e749275fca7a183b"/>
