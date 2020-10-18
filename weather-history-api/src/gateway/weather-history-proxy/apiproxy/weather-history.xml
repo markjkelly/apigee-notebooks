@@ -27,7 +27,6 @@
         <Policy>get-wind-vars</Policy>
         <Policy>pathsuffix</Policy>
         <Policy>quota-error</Policy>
-        <Policy>save-station</Policy>
         <Policy>set-query</Policy>
         <Policy>spike-error</Policy>
         <Policy>verify-API-key</Policy>
