@@ -61,10 +61,6 @@
                     <FaultRules/>
                     <Name>build-temp-query</Name>
                 </Step>
-                <Step>
-                    <FaultRules/>
-                    <Name>save-station</Name>
-                </Step>
             </Request>
             <Response>
                 <Step>
