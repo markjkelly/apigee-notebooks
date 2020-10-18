@@ -8,6 +8,6 @@
     <!-- <KeyFragment ref='variable.containing.keyfrag' /> -->
   </CacheKey>
   <ExpirySettings>
-    <TimeoutInSec ref='GCP.expires_in'>3540</TimeoutInSec> <!-- 3540 = 3600-60 = default ttl -->
+    <TimeoutInSec>3540</TimeoutInSec> <!-- 3540 = 3600-60 = default ttl -->
   </ExpirySettings>
 </PopulateCache>
