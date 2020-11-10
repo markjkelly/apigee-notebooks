@@ -1,5 +1,5 @@
 ## Weather Demo
-This folder contains the proxy, shared flow and html used in the Apigee Weather demo.  ['Open this Colab notebook'](https://github.com/markjkelly/apigee-notebooks/blob/master/weather-history-api/deployment-notebook.ipynb) to get started with your deployment.
+This folder contains the proxy, shared flow and html used in the Apigee Weather demo.  ['Open this Colab notebook'](https://colab.research.google.com/github/markjkelly/apigee-notebooks/blob/master/weather-history-api/deployment-notebook.ipynb) to get started with your deployment.
 
 You can view a recording of the weather demo by following the YouTube link below.
 
