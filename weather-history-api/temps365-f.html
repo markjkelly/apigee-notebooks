@@ -47,10 +47,10 @@
 
 			jQuery.ajax({
 				url: endpoint + "/stations",
+				headers: {'apikey': apikey},
 				type: "GET",
 				data: {
-					"near": address,
-					"apikey": apikey,
+					"near": address
 				},
 			})
 				.done(function (data, textStatus, jqXHR) {
@@ -93,12 +93,12 @@
 			$('#statusMessage').html("Running query...");
 			$('#statusMessage').show();
 			console.log("Running query...");
-			var url = endpoint + "/stations/" + station + "/years/" + year + "/temp?" +
-				"apikey=" + apikey;
+			var url = endpoint + "/stations/" + station + "/years/" + year + "/temp";
 			$('#uri').html("URI: " + url);
 
 			// call API and get data
 			jQuery.ajax({
+				headers: {'apikey': apikey},
 				url: url,
 				type: "GET",
 			})
